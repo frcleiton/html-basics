@@ -2,8 +2,8 @@
  
  Learning HTML by doing.
  
-  ## Examples
+ ## Examples
   
-  1. [First HTML](first-html)
-  1. [Title Level](title-level)
-  1. [Ordered List](ordered-list)
+ 1. [First HTML](first-html)
+ 1. [Title Level](title-level)
+ 1. [Ordered List](ordered-list)
