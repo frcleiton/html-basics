@@ -1,7 +1,5 @@
-section {
-    display: none;
-}
-
-section:target {
-    display: block;
+section:target h2 {
+    background-color: purple;
+    padding: 5px;
+    border: 1px solid #ccc;
 }
